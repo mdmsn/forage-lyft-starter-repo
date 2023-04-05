@@ -1,2 +1,1 @@
-# Lyft refactor
-Refactored Lyft repo
+# Lyft
