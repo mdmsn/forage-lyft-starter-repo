@@ -1,3 +1,3 @@
 # Lyft
 
-Simple Object-Oriented Programming in Python using the Factory Method design pattern.
+My OOP refactor of a Lyft repo using the Factory Method design pattern.
